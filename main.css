@@ -3,7 +3,7 @@ body{
 }
 
 p:hover{
-	background-color: green;
+	background-color: rgb(39, 173, 245);
 }
 
 p:first-letter{

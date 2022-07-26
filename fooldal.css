@@ -1,11 +1,11 @@
 body{
-	background-color: #042;
+	background-color: rgb(39, 173, 245);
 	color: white;
 	margin: 0;
 }
 
 header{
-	background-color: #042;
+	background-color: rgb(39, 173, 245);
 	color: white;
 	margin: 0;
 	padding: 15px 15px 0px 15px;
@@ -54,7 +54,7 @@ div.row{
 }
 
 div.col{
-	background-color: #922;
+	background-color: rgb(12, 23, 176);
 	display: inline;
 	margin: 1%;
 	padding: 1%;
